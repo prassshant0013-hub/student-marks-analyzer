@@ -14,7 +14,12 @@ It calculates average, highest, lowest marks and assigns grades.
 * Assign grades (A, B, C, D)
 * Simple console output
 
----
+
+## 📸 Application Screenshot
+
+<img src="images/output.png" width="700">
+---<img width="1915" height="1001" alt="image" src="https://github.com/user-attachments/assets/9318128d-b21a-4cc0-ad30-8ec1ae550a8f" />
+
 
 ## 🛠 Tech Used
 
